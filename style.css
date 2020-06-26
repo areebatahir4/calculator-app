@@ -1,0 +1,39 @@
+
+.calculator-style{
+   
+    width:500px;
+    height:400px;
+margin:auto;
+
+}
+#form-style{
+    width:300px;
+    text-align: center;
+
+}
+#input-style{
+    width: 208px;
+    font-size: 36px;
+    font-weight: 400;
+    border: 1px solid black;
+
+}
+
+#clear{
+    width:213px;
+
+}
+.button-style{
+    width: 50px;
+    height: 36px;
+    font-size: 20px bold;
+    font-weight: 400;
+    border: 1px solid black;
+    margin-top:2px;
+}
+.heading{
+    text-align: center;
+}
+#equal-style{
+    background-color: gray;
+}
